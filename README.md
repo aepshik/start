@@ -6,3 +6,6 @@ bbcb
 kkcnckwq
 git
 hub
+privet
+pukni v
+paket
